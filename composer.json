@@ -1,0 +1,17 @@
+{
+    "name": "laurent/framework-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "laurent",
+            "email": "laurent.last7@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^6.3"
+    }
+}
